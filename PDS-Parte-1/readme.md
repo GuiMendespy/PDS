@@ -1,6 +1,8 @@
 # Processamento Digital de Sinais (PDS) — Roteiro 1
 
-Repositório com as simulações, gráficos e resultados do **Roteiro 1 de Processamento Digital de Sinais**, desenvolvido no **IFPB – Campus Campina Grande** (NAPMT), 2026.
+Repositório com as simulações, gráficos e resultados do **Roteiro 1 de Processamento Digital de Sinais**, desenvolvido no **IFPB – Campus Campina Grande**, 2026.
+
+**Autores:** Antonni Guedes Alves de Moraes, Guilherme José Mendes Jerônimo
 
 O trabalho percorre os fundamentos de sinais e sistemas em tempo discreto: da definição de sinal até a convolução como filtragem digital. Ele termina com um **mini projeto** que simula uma cadeia completa de aquisição e processamento de sinais (temperatura ambiente ao longo de 48 horas).
 
@@ -27,8 +29,6 @@ O trabalho percorre os fundamentos de sinais e sistemas em tempo discreto: da de
 - **Matplotlib** — gráficos contínuos (`plot`) e discretos (`stem`)
 - **Jupyter Notebook** — ambiente das simulações
 
-> As simulações também podem ser reproduzidas em GNU Octave ou MATLAB.
-
 ## Estrutura do repositório
 
 | Tópico | Assunto | Notebook |
@@ -43,7 +43,7 @@ O trabalho percorre os fundamentos de sinais e sistemas em tempo discreto: da de
 | 8 | Sistemas LTI | [`Sistemas_LTI.ipynb`](PDS-Parte-1/Simula%C3%A7%C3%B5es/Sistemas_LTI.ipynb) |
 | 9 | Convolução discreta | [`Convolução Discreta.ipynb`](PDS-Parte-1/Simula%C3%A7%C3%B5es/Convolu%C3%A7%C3%A3o%20Discreta.ipynb) |
 | 10 | Convolução como filtragem | [`Convolução_Como_Filtragem.ipynb`](PDS-Parte-1/Simula%C3%A7%C3%B5es/Convolu%C3%A7%C3%A3o_Como_Filtragem.ipynb) |
-| — | Mini projeto | _(adicionar link)_ |
+| 11 | Mini projeto | [`mini_projeto_temperatura.ipynb`](PDS-Parte-1/Mini-Projeto/codigo/mini_projeto_temperatura.ipynb) |
 
 ## Como executar
 
@@ -196,6 +196,3 @@ $$x(t) = T_0 + A_1\cos(2\pi f_1 t + \phi_1) + A_2\cos(2\pi f_2 t + \phi_2)$$
 4. HAYKIN, S.; VAN VEEN, B. *Sinais e Sistemas*. Porto Alegre: Bookman, 2001.
 5. DINIZ, P. S. R.; DA SILVA, E. A. B.; NETTO, S. L. *Digital Signal Processing: System Analysis and Design*. 2nd ed. Cambridge University Press, 2010.
 
----
-
-**Autor:** Guilherme — IFPB, Campus Campina Grande
