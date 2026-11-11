@@ -1,0 +1,12 @@
+Grandeza,Valor
+Constante de tempo τ,1.60 ms
+Frequência de corte fc,99.47 Hz
+Polo contínuo s,-625.0 rad/s
+Polo discreto z (ZOH),0.7316
+Frequência de amostragem fs,2000 Hz
+Taxa de Nyquist (2·fmax),800 Hz
+Resolução espectral Δf (N=2000),1.00 Hz
+Amplitude medida em 50 Hz,0.8935 V
+Amplitude medida em 400 Hz,0.2413 V
+Frequência aparente com fs=500 Hz,100 Hz
+Frequência aparente com fs=700 Hz,300 Hz

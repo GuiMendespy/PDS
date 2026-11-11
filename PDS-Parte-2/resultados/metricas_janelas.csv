@@ -1,0 +1,4 @@
+,largura do lóbulo principal (bins),maior lóbulo lateral (dB),ENBW (bins)
+Retangular,2.0,-13.254323824189957,1.0
+Hann,4.0,-31.467400871400883,1.5
+Hamming,4.0,-42.44926596165349,1.3628257887517148
