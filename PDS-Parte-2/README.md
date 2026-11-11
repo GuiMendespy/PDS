@@ -1,13 +1,14 @@
 # PDS – Parte 2
 
-Mini Projeto Integrador: **Análise Multidomínio de um Sinal e de um Sistema** (Processamento Digital de Sinais, IFPB).
+Mini Projeto Integrador: **Análise Multidomínio de um Sinal e de um Sistema**.
+
 Aplicação escolhida: **circuito RC passa-baixas** (R = 1,6 kΩ, C = 1 µF, τ = 1,6 ms, fc ≈ 99,5 Hz).
 
 ## Estrutura
 
 ```
 PDS-Parte-2/
-├── relatorio/                  # relatório final (a preencher)
+├── relatorio/                  # relatório final 
 ├── simulacoes/                 # simulações dos tópicos da Parte 2 (a preencher)
 │   ├── fourier/
 │   ├── dft-fft/
